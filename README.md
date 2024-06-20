@@ -40,7 +40,3 @@ For this model, a multiple linear regression algorithm was implemented using sup
   ```
 
 By following these steps, you will be able to visualize the data, train the model, and interact with it through a GUI to predict house prices.
-
----
-
-Feel free to customize this README further based on your project's specific details and requirements.

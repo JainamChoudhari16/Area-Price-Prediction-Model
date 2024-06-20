@@ -1,11 +1,11 @@
-# Area-Price-Prediction-Model
+# House-Price-Prediction-Model
 
-This repository contains a simple machine-learning model for predicting area prices based on the dataframe on which it is trained.
+In this repository, you will find a simple machine-learning model built & deployed to predict house prices based on the data it is trained on.
 
-## DataFrame
+## Data Frame
 
-The dataframe used to train this model consists of areas with their labelled prices. 
+The data frame used to train this model contains the house area, number of bedrooms, age, and price for each house.
 
 ## Model
 
-The model is a Simple Linear Regression algorithm implemented using Supervised Machine Learning. It is trained on the provided dataframe to predict area prices.
+For this model, a multiple linear regression algorithm was implemented using supervised machine learning. The model can predict house prices once trained on the provided data frame.

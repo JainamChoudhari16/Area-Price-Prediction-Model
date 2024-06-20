@@ -18,13 +18,13 @@ For this model, a multiple linear regression algorithm was implemented using sup
 
 ### 1. Analyze and Visualize Data
 
-- Open the `Project 2.ipynb` Jupyter notebook file.
+- Open the `Project_2.ipynb` Jupyter notebook file.
 - This file contains code to analyze and visualize the data.
 - Run all cells in the notebook to see the data analysis and visualization results.
 
 ### 2. Train the Model and Create a Pickle File
 
-- In the latter part of the `Project 2.ipynb` notebook, the `pickle` module is imported.
+- In the latter part of the `Project_2.ipynb` notebook, the `pickle` module is imported.
 - The model is trained, and a pickle file `house.pkl` is created, which converts the model object into a byte stream. This file is essential for displaying the model on a GUI.
 
 ### 3. Run the Model with GUI
